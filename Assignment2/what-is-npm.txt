@@ -1,0 +1,2 @@
+npm stands for "Namaste Package Manager". 
+It allows us manage packages for our apps.

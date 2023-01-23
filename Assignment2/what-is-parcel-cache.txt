@@ -1,0 +1,3 @@
+.parcel-cache is a folder where is working space for parcel working files.
+this files are automatically genereated and we need to add .parcel-cache folder to
+.gitignore

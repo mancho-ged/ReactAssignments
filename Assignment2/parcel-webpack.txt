@@ -1,0 +1,2 @@
+parcel, webpack and vite are bundlers.
+we need them to have a developement environment and to create a production ready app.

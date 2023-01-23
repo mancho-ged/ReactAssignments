@@ -1,0 +1,4 @@
+Tree shaking is a process in which bundlers are removing code of libraries that is not used in 
+our app.
+Tree shaking is a term that is commonly used in javascript context to describe 
+removal of dead code. It relies on export and import statements

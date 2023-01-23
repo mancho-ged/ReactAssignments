@@ -1,0 +1,2 @@
+HMR - changes, adds or removes modules, while application is running, without
+a full reload

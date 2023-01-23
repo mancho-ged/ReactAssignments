@@ -1,0 +1,5 @@
+The difference between dependencies and devdependencies is that devdependencies
+are modules that are used only during developement process, while dependencies are
+required in developement and at runtime. To install package as devDependency
+we need to install it with "-D" (hyphen-D) or "--save-dev" flags.
+Parcel, Babel, Webpack are examples of devDependancies. This libraries are not shipped to the browser.

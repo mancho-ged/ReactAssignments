@@ -1,0 +1,3 @@
+npx is npm command with execute, x stands for execute.
+it is a "package runner"
+with it we can execute the package from npm registry without even installing it
