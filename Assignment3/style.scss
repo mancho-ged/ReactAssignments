@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 15px;
+    box-shadow: 0 3px 6px rgb(175, 145, 245);
+    font-family: 'Roboto', sans-serif;
+}
+.user {
+    margin-left: auto;
+}
+.user-icon {
+    color: navy;
+    margin-right: 15px;
+}
+.search-bar {
+    flex: 1;
+    margin: 15px;
+    border: 2px solid #888;
+    line-height: 25px;
+    border-radius: 8px;
+}
